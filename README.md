@@ -3,6 +3,7 @@
 </h1>
 <p align="center">
   <a href="#tecnologias-e-práticas-utilizadas">Tecnologias e práticas utilizadas</a> •
+  <a href="#chromedriver">ChromeDriver</a> •
   <a href="#comandos">Comandos</a>
 </p>
 
@@ -11,6 +12,11 @@ Scripts para realização de testes de aceitação.
 ## Tecnologias e práticas utilizadas
 - Python 3.8
 - Robot Framework 6.0.2
+- ChromeDriver
+
+## ChromeDriver
+
+É necessário fazer o download do ChromeDriver (https://chromedriver.chromium.org/downloads) de acordo com a versão do *Chrome* instalada no seu computador, descompactar o arquivo e copiar o executável para dentro da pasta *Scripts* da instalação do seu python.
 
 ## Comandos
 
@@ -41,5 +47,3 @@ env\Scripts\deactivate.bat
 (env) robot .
 (env) robot_run_all.cmd
 ```
-
-Passo do ChromeDrive!!!!
