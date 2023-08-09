@@ -5,7 +5,7 @@ Library    SeleniumLibrary
 
 ** Keywords **
 Abrir Sistema/Site
-    Open Browser    https://samuel-oldra.github.io/Projeto-AngularJS/    chrome
+    Open Browser    https://samuel-oldra.github.io/CadastroDeTarefas-AngularJS/    chrome
 
 Captura Tela
     Capture Page Screenshot    selenium-screenshot-{index:03}.png
